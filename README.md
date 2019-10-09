@@ -7,7 +7,7 @@ this app same to the whats up that help to communucation by nummber phone
 
 Technology  
 
-Android Studio 
-Java 
+Android Studio /n
+Java /n
 Firebase 
 
