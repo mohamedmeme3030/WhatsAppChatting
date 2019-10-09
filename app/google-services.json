@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "806564565453",
+    "firebase_url": "https://whatsappchatting-549c9.firebaseio.com",
+    "project_id": "whatsappchatting-549c9",
+    "storage_bucket": "whatsappchatting-549c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806564565453:android:dfa5c5b7083f326b",
+        "android_client_info": {
+          "package_name": "com.example.khaled_sa2r.whatsappchatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806564565453-hgt94th26dq0leljmua1f0ieemtc8ias.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.khaled_sa2r.whatsappchatting",
+            "certificate_hash": "5dfab695413ea94ee87fdaa350e08655c40d48e0"
+          }
+        },
+        {
+          "client_id": "806564565453-5uhvrnutu6pepg2ukqa2pe7qgu7aon4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-oN0O9BxEeG0rkf_RiF0vWJjKBDWDo6M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806564565453-5uhvrnutu6pepg2ukqa2pe7qgu7aon4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
